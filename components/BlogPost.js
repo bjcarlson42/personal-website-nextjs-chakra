@@ -28,7 +28,7 @@ const BlogPost = ({ title, publishedAt, summary, slug }) => {
 
                         <Text
                             color="gray.500"
-                            minWidth="105px"
+                            minWidth="140px"
                             textAlign={['left', 'right']}
                             mb={[4, 0]}
                         >
