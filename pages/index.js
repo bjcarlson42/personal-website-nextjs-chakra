@@ -4,7 +4,8 @@ import {
   Heading,
   Text,
   Flex,
-  Stack
+  Stack,
+  Button,
 } from '@chakra-ui/react'
 
 import Container from '../components/Container'
