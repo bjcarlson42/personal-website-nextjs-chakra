@@ -37,6 +37,7 @@ export default function Index() {
         >
           <Heading mb={2}>Hi, I'm Benjamin Carlson</Heading>
           <Text color={colorSecondary[colorMode]}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ante nunc, finibus sit amet purus quis, congue vulputate ipsum. Phasellus lobortis bibendum orci, quis imperdiet lectus imperdiet porttitor.</Text>
+          <Button data-splitbee-event="Button Click" data-splitbee-event-type="Resume">View Resume</Button>
         </Flex>
       </Stack>
     </Container>
